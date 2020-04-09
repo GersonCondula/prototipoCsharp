@@ -1,0 +1,9 @@
+E:\Project\Linguagens\VisualBasic\PrototipoCsharp\PrototipoCsharp\bin\Debug\PrototipoCsharp.exe.config
+E:\Project\Linguagens\VisualBasic\PrototipoCsharp\PrototipoCsharp\bin\Debug\PrototipoCsharp.exe
+E:\Project\Linguagens\VisualBasic\PrototipoCsharp\PrototipoCsharp\bin\Debug\PrototipoCsharp.pdb
+E:\Project\Linguagens\VisualBasic\PrototipoCsharp\PrototipoCsharp\obj\Debug\PrototipoCsharp.csprojAssemblyReference.cache
+E:\Project\Linguagens\VisualBasic\PrototipoCsharp\PrototipoCsharp\obj\Debug\PrototipoCsharp.Properties.Resources.resources
+E:\Project\Linguagens\VisualBasic\PrototipoCsharp\PrototipoCsharp\obj\Debug\PrototipoCsharp.csproj.GenerateResource.cache
+E:\Project\Linguagens\VisualBasic\PrototipoCsharp\PrototipoCsharp\obj\Debug\PrototipoCsharp.exe
+E:\Project\Linguagens\VisualBasic\PrototipoCsharp\PrototipoCsharp\obj\Debug\PrototipoCsharp.pdb
+E:\Project\Linguagens\VisualBasic\PrototipoCsharp\PrototipoCsharp\obj\Debug\PrototipoCsharp.FrmLogin.resources
