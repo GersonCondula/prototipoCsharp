@@ -12,7 +12,7 @@ namespace PrototipoCsharp.Connection
             try
             {
                 String connectionString = "Provider=Microsoft.ACE.OLEDB.12.0;" +
-                                          "Data Source=E:/Project/Linguagens/VisualBasic/PrototipoCsharpDB/prototipo.accdb;" +
+                                          "Data Source=E:/Project/Linguagens/VisualBasic/PrototipoCsharp/prototipo.accdb;" +
                                           "Persist Security Info=False;";
                 dbConnection = new OleDbConnection(connectionString);
             }catch(Exception ex)
